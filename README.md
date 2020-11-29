@@ -8,21 +8,21 @@ Date: 29.11.2020
 
 Screenshot of kafka-consumer-console output
 
-![](pics/consumer_kafka_console_Screenshot_2020-11-28_10-04-19.png)
+![](./pics/consumer_kafka_console_Screenshot_2020-11-28_10-04-19.png)
 
 ## Step 2: Spark Structured Streaming
 
 Screesnhot of aggregation results
 
-![](pics/batch_ingestion_of_the_aggregation_Screenshot_2020-11-28_14-25-28.png)
+![](./pics/batch_ingestion_of_the_aggregation_Screenshot_2020-11-28_14-25-28.png)
 
 Screenshot of the Progress Reporter
 
-![](pics/Progress_Reporter_Screenshot_2020-11-28_15-40-24.png)
+![](./pics/Progress_Reporter_Screenshot_2020-11-28_15-40-24.png)
 
 Screensoht of Spark UI
 
-![](pics/UI_Screenshot_2020-11-28 16-05-11.png)
+![](./pics/UI_Screenshot_2020-11-28 16-05-11.png)
 
 ## Step 3: Questions
 
