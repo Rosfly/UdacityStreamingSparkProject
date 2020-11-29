@@ -22,7 +22,7 @@ Screenshot of the Progress Reporter
 
 Screensoht of Spark UI
 
-![](./pics/UI_Screenshot_2020-11-28 16-05-11.png)
+![](./pics/UI_Screenshot_2020-11-28_16-05-11.png)
 
 ## Step 3: Questions
 
